@@ -29,12 +29,12 @@ Work experience
     * Software development in Java and Spring Boot for the cart and checkout of Lidl Online Shop
     * Product ratings;
     * Data engineering in SQL, Python, and PySpark for Pricing Intelligence at Lidl;
-      *Software development in Go for Kaufland app backend.
+    * Software development in Go for the Kaufland App backend.
 
 Skills
 ======
 
-* Languages: German (native), English (fluent)
+* Languages: German, English
 * Programming Languages: Go, Python, SQL, LaTeX, Java
 * Tools & Platforms: Git, Docker, MS Office (PowerPoint, Word, Excel)
 
