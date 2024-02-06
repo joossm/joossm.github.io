@@ -24,7 +24,7 @@ Work experience
     * CHECK24 Reise Tech Hub und Services GmbH, Leipzig, Sachsen
     * Backend development with Go and PHP
 
-* 2019 – 2022: Dualer Student
+* 2019 – 2022: Dual Student
     * Schwarz IT KG, Neckarsulm, Baden-Württemberg
     * Software development in Java and Spring Boot for the cart and checkout of Lidl Online Shop
     * Product ratings;
@@ -34,14 +34,9 @@ Work experience
 Skills
 ======
 
+* Languages: German (native), English (fluent)
 * Programming Languages: Go, Python, SQL, LaTeX, Java
 * Tools & Platforms: Git, Docker, MS Office (PowerPoint, Word, Excel)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Projects and Hackathons
 ======
