@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Hey!
+
 I am Matthias Jooß, a Media Informatics student at HTWK Leipzig, with a Bachelor of Science in Applied Informatics from
 DHBW Mosbach. My academic and professional journey is marked by a strong foundation in software development and data
 science, with significant experience gained through a dual study program at Schwarz IT KG and a working student position
