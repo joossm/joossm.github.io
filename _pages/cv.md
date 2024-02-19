@@ -14,7 +14,7 @@ Education
 
 * M.Sc. in Media Informatics, HTWK Leipzig, 2022-Present
     * Honoured with the Deutschlandstipendium
-* B.S. in Applied Informatics, DHBW Mosbach, 2019-2022
+* B.Sc. in Applied Informatics, DHBW Mosbach, 2019-2022
     * Bachelor Thesis: "Integration of a Feature Store into AI Development"
 
 Work experience
@@ -27,8 +27,8 @@ Work experience
 * 2019 – 2022: Dual Student
     * Schwarz IT KG, Neckarsulm, Baden-Württemberg
     * Software development in Java and Spring Boot for the cart and checkout of Lidl Online Shop
-    * Product ratings;
-    * Data engineering in SQL, Python, and PySpark for Pricing Intelligence at Lidl;
+    * Product ratings
+    * Data engineering in SQL, Python, and PySpark for Pricing Intelligence at Lidl
     * Software development in Go for the Kaufland App backend.
 
 Skills
@@ -44,9 +44,7 @@ Projects and Hackathons
 * Biathlon Betting Game
     * Year: 2024
     * Technologies: Go, PostgreSQL, Docker
-    * Description: Developed a web application for the biathlon betting game, which allows users to place bets on
-      the
-      biathlon world cup. The application is built with Go and PostgreSQL, and is deployed using Docker.
+      * Description: Developed a web application for the biathlon betting game, which allows users to place bets on the biathlon world cup. More precisly on which five athltehes or teams are finishing first five places. The application is built with Go and MySQL, and is deployed using Docker and Gitlab CI/CD. [Biathlon.fun](https://biathlon.fun)
 
 * Jenoptik Digital Innovation Days
     * Year: 2023
