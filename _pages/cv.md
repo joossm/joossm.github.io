@@ -44,7 +44,7 @@ Projects and Hackathons
 * Biathlon Betting Game
     * Year: 2024
     * Technologies: Go, PostgreSQL, Docker
-      * Description: Developed a web application for the biathlon betting game, which allows users to place bets on the biathlon world cup. More precisly on which five athltehes or teams are finishing first five places. The application is built with Go and MySQL, and is deployed using Docker and Gitlab CI/CD. [Biathlon.fun](https://biathlon.fun)
+      * Description: Developed a web application for the biathlon betting game, which allows users to place bets on the biathlon world cup. More precisely, on which five athletes or teams finish in the first five places. The application is built with Go and MySQL, and is deployed using Docker and Gitlab CI/CD. [Biathlon.fun](https://biathlon.fun)
 
 * Jenoptik Digital Innovation Days
     * Year: 2023
